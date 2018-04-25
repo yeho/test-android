@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">movies</string>
+  <string name="loading">loading..</string>
+  <string name="no_internet">You dont have internet connection..</string>
+  <string name="appbar_scrolling_view_behavior" />
+  <string name="title_activity_scrolling">ScrollingActivity</string>
+  <string name="txt_episode_number">E%1$f </string>
+
+</resources>
